@@ -6,7 +6,7 @@ thumbnail: earth.jpg
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vector_00.svg/1280px-Vector_00.svg.png)
 
-Se llama vector de dimensión \(n\), a una tupla de \\(n\\), números reales (que se llaman componentes del vector). El conjunto de todos los vectores de dimensión \\(n\\), se representa como \\(\mathbb{R}^{n}\\).
+Se llama vector de dimensión \\(n\\), a una tupla de \\(n\\), números reales (que se llaman componentes del vector). El conjunto de todos los vectores de dimensión \\(n\\), se representa como \\(\mathbb{R}^{n}\\).
 
 Así, un vector \\(v\\) v perteneciente a un espacio \\(\mathbb{R}^{n}\\) se representa como:
 
