@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Vector"
+date:   2020-02-19 11:11:11 +0100
+thumbnail: earth.jpg
+---
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vector_00.svg/1280px-Vector_00.svg.png)
+
+Se llama vector de dimensión \\(n\\), a una tupla de \\(n\\), números reales (que se llaman componentes del vector). El conjunto de todos los vectores de dimensión \\(n\\), se representa como \\(\mathbb{R}^{n}\\).
+
+Así, un vector \\(v\\) v perteneciente a un espacio \\(\mathbb{R}^{n}\\) se representa como:
+
+\\(v=(a_{1},a_{2},a_{3},...,a_{n})\\), donde \\(v\in {\mathbb  {R}}^{n}\\)
+
+Un vector fijo del plano euclídeo es un segmento orientado, en el que hay que distinguir tres características:
+
+- Módulo: la longitud del segmento expresado en términos de un valor numérico y una unidad.
+- Dirección: el ángulo del vector con respecto al eje x.
+- Sentido: la orientación del segmento, del origen al extremo del vector. Puede ser positivo o negativo.
+
+Los vectores fijos del plano se denotan con dos letras mayúsculas (y una flecha hacia la derecha encima), por ejemplo \\({\displaystyle {\overrightarrow {AB}}}\\), que indican su origen y extremo respectivamente. Es decir, el punto A es el origen o punto de aplicación y el punto B es el extremo del vector \\({\displaystyle {\overrightarrow {AB}}}\\), cuyas coordenadas son:
+
+\\({\displaystyle {\overrightarrow {AB}}=(x_{B}-x_{A},y_{B}-y_{A})\,}\\)
+
+Si representamos el vector gráficamente podemos diferenciar los siguientes elementos:
+
+La recta soporte o **dirección**, sobre la que se traza el vector.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vector_02.svg/250px-Vector_02.svg.png)
+
+El **módulo** o amplitud con una longitud proporcional al valor del vector.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vector_03.svg/250px-Vector_03.svg.png)
+
+El **sentido**, indicado por la punta de flecha, siendo uno de los dos posibles sobre la recta soporte.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vector_04.svg/250px-Vector_04.svg.png)
+
+## Calcular módulo de un vector
+
+El módulo de un vector es la distancia desde el origen hasta el extremo, por lo que corresponde a la longitud del vector.
+
+Se representa encerrado a la letra del vector (o las letras) entre dos barras:
+
+![](https://ekuatio.com/wp-content/uploads/vectores-16.png)
+
+### ¿Cómo se calcula el módulo?
+
+El módulo de un vector se calcular a partir de las coordenadas del vector mediante esta fórmula:
+
+![](https://ekuatio.com/wp-content/uploads/vectores-16.png)
+
+Es la misma que para calcular la hipotenusa de un triángulo rectángulo, ya que para obtenerla, se aplica el teorema de Pitágoras en el triángulo que se forma entre el vector y sus componentes, donde el vector sería la hipotenusa:
+
+![](https://ekuatio.com/wp-content/uploads/vectores-17.png)
+
+### Cómo calcular el módulo de un vector con las coordenadas de su origen y de su extremo
+
+Como hemos visto antes, las componentes de un vector se calculan a partir de las coordenadas de los puntos de su origen y de su extremo.
+
+![](https://ekuatio.com/wp-content/uploads/vectores-9.png)
+
+Por tanto, podemos calcular el módulo de un vector directamente si conocemos las coordenadas de los puntos de su origen y de su extremo, sólo con sustituir en la fórmula anterior de cálculo del módulo, las componentes x e «y» por la resta de las coordenadas del extremo menos las coordenadas del origen:
+
+![](https://ekuatio.com/wp-content/uploads/vectores-22.png)
